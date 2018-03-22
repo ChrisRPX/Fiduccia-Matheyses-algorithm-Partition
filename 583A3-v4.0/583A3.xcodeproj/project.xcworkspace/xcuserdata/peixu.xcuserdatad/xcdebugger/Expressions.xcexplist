@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FM_algo(PLC&amp;, int):583A3.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "plcnet.partb[55]">
+            </PersistentString>
+            <PersistentString
+               value = "plcnet.parta[55]">
+            </PersistentString>
+            <PersistentString
+               value = "plcnet.parta[56]">
+            </PersistentString>
+            <PersistentString
+               value = "plcnet.cells[move_cell].partA_B">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PLC::find_max(int*, int):Placement_Net.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "part[0]">
+            </PersistentString>
+            <PersistentString
+               value = "part_num">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PLC::init_partnum():Placement_Net.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "nets[0].sink_No[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PLC::move_cell(int):Placement_Net.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "parta[parta_num]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "in_bin_sort(PLC&amp;, int*, int):583A3.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "part[0]">
+            </PersistentString>
+            <PersistentString
+               value = "part[1]">
+            </PersistentString>
+            <PersistentString
+               value = "part[2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "draw_cells(PLC&amp;, int):583A3.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "plcnet.parta[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
